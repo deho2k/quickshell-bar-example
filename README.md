@@ -1,5 +1,5 @@
 # quickshell-bar-example
-a quickshell bar i made and use for my hyprland feel free to use it as an example
+a quickshell bar i made and use for my hyprland feel free to use it as your own bar or as a refrence/example
 
 credits goes to: https://github.com/tonybanters/quickshell-btw
 i used it as a starting point then just made a few tweeks to get it to my liking 
