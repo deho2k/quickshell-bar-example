@@ -3,9 +3,10 @@ a quickshell bar i made and use for my hyprland feel free to use it as your own 
 
 credits goes to: https://github.com/tonybanters/quickshell-btw
 i used it as a starting point then just made a few tweeks to get it to my liking 
-i added things like a battery percentage and a text to show currently playing spotify song and rearranged the items and added also a Theme.qml file for wallust
+i added things like a battery percentage and a text to show currently playing spotify song and rearranged the componets and added also a Theme.qml file for wallust
 theres also that it doesnt allways show 9 workspaces and that they are circles instead of them bieng the id number of the workspace
-removed also a couple componets that was added like the diskspace and just kept 2 the ram and cpu usage
+removed also a couple componets that was added like the diskspace and just kept 2 the ram and cpu usage which he made i havent even touched a line of them
+changed the text saying "ram:" and "cpu:" to be icons from the nerd icons collection
 
 this is the template file for wallust (templates/Theme.qml)
 ```qml
@@ -40,3 +41,4 @@ then just added this in the wallust.toml file
 qs.src = "Theme.qml"
 qs.dst = "~/.config/quickshell/Theme.qml"
 ```
+###credit again to tony and his youtube video https://www.youtube.com/watch?v=g_I4hwCuDyQ&t=94s
