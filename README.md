@@ -4,7 +4,8 @@ a quickshell bar i made and use for my hyprland feel free to use it as your own 
 credits goes to: https://github.com/tonybanters/quickshell-btw
 i used it as a starting point then just made a few tweeks to get it to my liking 
 i added things like a battery percentage and a text to show currently playing spotify song and rearranged the items and added also a Theme.qml file for wallust
-
+theres also that it doesnt allways show 9 workspaces and that they are circles instead of them bieng the id number of the workspace
+removed also a couple componets that was added like the diskspace and just kept 2 the ram and cpu usage
 
 this is the template file for wallust (templates/Theme.qml)
 ```qml
