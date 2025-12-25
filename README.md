@@ -33,8 +33,9 @@ Singleton {
   readonly property color col15: "{{color15}}"
 }
 ```
-```toml
+
 then just added this in the wallust.toml file
+```toml
 qs.src = "Theme.qml"
 qs.dst = "~/.config/quickshell/Theme.qml"
 ```
