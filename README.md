@@ -1,6 +1,8 @@
 # quickshell-bar-example
 a quickshell bar i made and use for my hyprland feel free to use it as your own bar or as a refrence/example
 
+<img width="2880" height="112" alt="image" src="https://github.com/user-attachments/assets/7766a5fe-e047-4bcb-a283-21417647aae1" />
+
 credits goes to: https://github.com/tonybanters/quickshell-btw
 i used it as a starting point then just made a few tweeks to get it to my liking 
 i added things like a battery percentage and a text to show currently playing spotify song and rearranged the componets and added also a Theme.qml file for wallust
